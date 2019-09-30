@@ -30,4 +30,4 @@ or via the CLI using `aws lambda invoke`.
 
 ## More Information
 
-Please see https://github.com/symphoniacloud/sam-templates for more information.
+Please see https://github.com/symphoniacloud/sam-init-HelloWorldLambdaJava for more information.
